@@ -1,0 +1,15 @@
+D:\C#\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe.config
+D:\C#\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe
+D:\C#\SortedListApp\SortedListApp\bin\Debug\SortedListApp.pdb
+D:\C#\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csprojAssemblyReference.cache
+D:\C#\SortedListApp\SortedListApp\obj\Debug\MainWindow.g.cs
+D:\C#\SortedListApp\SortedListApp\obj\Debug\App.g.cs
+D:\C#\SortedListApp\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.cache
+D:\C#\SortedListApp\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.lref
+D:\C#\SortedListApp\SortedListApp\obj\Debug\MainWindow.baml
+D:\C#\SortedListApp\SortedListApp\obj\Debug\SortedListApp.g.resources
+D:\C#\SortedListApp\SortedListApp\obj\Debug\SortedListApp.Properties.Resources.resources
+D:\C#\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.GenerateResource.cache
+D:\C#\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.CoreCompileInputs.cache
+D:\C#\SortedListApp\SortedListApp\obj\Debug\SortedListApp.exe
+D:\C#\SortedListApp\SortedListApp\obj\Debug\SortedListApp.pdb
